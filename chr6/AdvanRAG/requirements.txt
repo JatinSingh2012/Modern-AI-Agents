@@ -197,7 +197,4 @@ zipp==3.23.0
 zstandard==0.25.0
 kaggle==1.7.4.5
 nltk==3.9.2
-langchain==0.2.16
-langchain-community==0.2.17
-langchain-text-splitters==0.2.4
-langchain-huggingface==0.0.3
+
